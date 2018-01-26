@@ -1,6 +1,7 @@
 #pyramid{
     line-height: 0;
     font-size: 30px;
+    color: #AA5588;
 }
 
 body{
@@ -46,4 +47,5 @@ height: 100%;
 #range-text{
 font-size: 20px;
 font-weight: bold;
+
 }
